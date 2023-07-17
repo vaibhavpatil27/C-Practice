@@ -1,0 +1,5 @@
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CsPractice\obj\Debug\net7.0\CsPractice.csproj.AssemblyReference.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CsPractice\obj\Debug\net7.0\CsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CsPractice\obj\Debug\net7.0\CsPractice.AssemblyInfoInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CsPractice\obj\Debug\net7.0\CsPractice.AssemblyInfo.cs
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CsPractice\obj\Debug\net7.0\CsPractice.csproj.CoreCompileInputs.cache
