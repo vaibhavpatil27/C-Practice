@@ -1,0 +1,15 @@
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\bin\Debug\net6.0\BankAccount.exe
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\bin\Debug\net6.0\BankAccount.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.csproj.AssemblyReference.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\refint\BankAccount.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll

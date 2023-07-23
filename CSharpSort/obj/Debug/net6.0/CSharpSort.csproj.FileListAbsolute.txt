@@ -1,0 +1,15 @@
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.csproj.AssemblyReference.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.AssemblyInfoInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.AssemblyInfo.cs
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.csproj.CoreCompileInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\bin\Debug\net6.0\CSharpSort.exe
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\bin\Debug\net6.0\CSharpSort.deps.json
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\bin\Debug\net6.0\CSharpSort.runtimeconfig.json
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\bin\Debug\net6.0\CSharpSort.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\bin\Debug\net6.0\CSharpSort.pdb
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\refint\CSharpSort.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.pdb
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\CSharpSort.genruntimeconfig.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\CSharpSort\obj\Debug\net6.0\ref\CSharpSort.dll

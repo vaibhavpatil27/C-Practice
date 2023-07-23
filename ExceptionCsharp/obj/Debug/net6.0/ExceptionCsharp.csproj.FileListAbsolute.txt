@@ -1,0 +1,15 @@
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\bin\Debug\net6.0\ExceptionCsharp.exe
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\bin\Debug\net6.0\ExceptionCsharp.deps.json
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\bin\Debug\net6.0\ExceptionCsharp.runtimeconfig.json
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\bin\Debug\net6.0\ExceptionCsharp.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\bin\Debug\net6.0\ExceptionCsharp.pdb
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.csproj.AssemblyReference.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.AssemblyInfoInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.AssemblyInfo.cs
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.csproj.CoreCompileInputs.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\refint\ExceptionCsharp.dll
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.pdb
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ExceptionCsharp.genruntimeconfig.cache
+D:\VP\__CDAC\Modules\07_MS.Net\Practice\ExceptionCsharp\obj\Debug\net6.0\ref\ExceptionCsharp.dll
